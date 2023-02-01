@@ -1,0 +1,4 @@
+.section{
+    display: flex;
+    grid-template-columns: 2fr;
+}
